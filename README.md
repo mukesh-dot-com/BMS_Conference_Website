@@ -16,9 +16,14 @@ Welcome to the official repository of the College Conference Website! This websi
 
 ## Screenshots
 
-![Conference Website Homepage](/screenshots/homepage.png)
-![Conference Schedule](/screenshots/schedule.png)
-![Speaker Profiles](/screenshots/speakers.png)
+![Conference Website Homepage](/screenshots/ss1.png)
+<br><br><br><br>
+![](/screenshots/ss2.png)
+<br><br><br><br>
+![](/screenshots/ss3.png)
+<br><br><br><br>
+![Committee Page](/screenshots/ss4.png)
+
 
 ## Contributing
 
